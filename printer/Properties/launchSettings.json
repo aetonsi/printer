@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "printer": {
+      "commandName": "Project"
+    },
+    "printer xxx ok asd ' \\ \"": {
+      "commandName": "Project",
+      "commandLineArgs": "xxx ok asd ' \\ \""
+    }
+  }
+}
