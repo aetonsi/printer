@@ -1,5 +1,6 @@
 ﻿
 // https://stackoverflow.com/questions/199528/c-sharp-console-receive-input-with-pipe
+
 string text = "";
 
 // piping AND no command line arguments (arg 0 is the program itself)
